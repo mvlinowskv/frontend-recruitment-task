@@ -1,0 +1,30 @@
+.container {
+    &-main {
+        max-width: 1440px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+.alert {
+    &-not-display {
+        opacity: 0;
+        visibility: hidden;
+    }
+    &-display {
+        opacity: 1;
+        visibility: visible;
+    }
+}
+
+.bg-gradient {
+    background-color: rgba(18, 18, 18, 0.741);
+}
+
+.left-0 {
+    left: 0;
+}
+
+.vw-75 {
+    width: 75vw;
+}
