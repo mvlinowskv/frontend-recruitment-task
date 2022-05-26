@@ -1,2 +1,2 @@
-font{color:red}
+.font-family-primary{font-family:Roboto,sans-serif}.font-size-big{font-size:clamp(1.5rem,3vw,2.625rem)}.color-dark{color:#000}.font-size-small{font-size:1rem}.color-white{color:#fff}.font-weight-700{font-weight:700}.container-main{max-width:1440px;margin-left:auto;margin-right:auto}.alert-not-display{opacity:0;visibility:hidden}.alert-display{opacity:1;visibility:visible}.bg-gradient{background-color:rgba(18,18,18,.741)}.left-0{left:0}.vw-75{width:75vw}.btn{border-radius:2rem!important;padding:1rem 2.5rem!important}.btn-primary{background-color:#e4c1ae!important;border-color:#e4c1ae!important}.btn-primary:focus{box-shadow:none!important}.visibility-hidden{visibility:hidden}.visibility-visible{visibility:visible}
 /*# sourceMappingURL=main.css.map */
