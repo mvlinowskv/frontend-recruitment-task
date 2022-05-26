@@ -1,1 +1,1 @@
-{"version":3,"sources":[],"names":[],"mappings":"","file":"main.css","sourcesContent":[]}
+{"version":3,"sources":["main.scss","main.css"],"names":[],"mappings":"AAAA,KACI,SCCJ","file":"main.css","sourcesContent":["font {\r\n    color: red;\r\n}","font {\n  color: red;\n}"]}
