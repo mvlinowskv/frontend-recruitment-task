@@ -47,7 +47,7 @@ function alerts(alert, btn) {
                 // let str_counter = counter.toString()
 
                 document.cookie = counter
-                console.log(document.cookie)
+                    // console.log(document.cookie)
                 count.innerHTML = document.cookie
 
             })
